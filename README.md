@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ArashMhd82
 - 👀 I’m interested in programming and reading book.
-- 🌱 I’m currently learning c++.
-- 💞️ I’m looking to collaborate on nothing.
+- 💞️ I’m looking to collaborate on Web projects.
 - 📫 How to reach me : 
 you can use my Telegram ID = @Arashmhd82.
 <!---
